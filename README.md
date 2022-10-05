@@ -4,3 +4,4 @@ I’ve been developing the several web sites such as shopping site, all kinds of
 Recently I’m specialize in developing Mern Stack app and my skills are responsive design, payment processing, interactions with external services etc.
 I will try to become a good developer to clients and keep the credit.
 Have a look at the following site. 
+ss

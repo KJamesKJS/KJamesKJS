@@ -95,7 +95,7 @@ footer a:not(.nav-link) {
   .site-title {
     float: left; }
   .site-nav {
-    float: right; } }
+    float: center; } }
 
 @media (max-width: 767px) {
   /* disable animations on mobile */
@@ -144,3 +144,5 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+
+    
